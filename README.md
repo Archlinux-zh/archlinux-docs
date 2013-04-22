@@ -1,7 +1,5 @@
-archlinux-docs
-==============
 # 簡介
-<TODO>
+archlinux-docs
 
 # 需求
 
